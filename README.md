@@ -21,7 +21,7 @@
 - 📦 Creator behind [Boxtasis](https://boxtasis.com), Mexico's pioneering online marketplace based on subscriptions.
 - 🥷 I'm also a ~~instructor~~ sensei. I teach fullstack programming to whoever is commited to learn the ancient *jutsu* of web development
 - 🆒 Vue.js enthusiast
-- 📓 If you want to know more about me read my blog at [medium](roberto@boxtasis.com)
+- 📓 If you want to know more about me read my blog at [medium](https://medium.com/@robextrem)
 
 
 ##### GET IN TOUCH
