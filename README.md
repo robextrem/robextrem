@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm currently working on [Luqero](https://luqero.com.mx)
 
-- 🧠 I'm currently learning [AdonisJS](https://adonijs.com) and [Phaser](https://phaser.io/)
+- 🧠 I'm currently learning [AdonisJS](https://adonijs.com)
 
 - 🕹️ I'd like to venture into video games development
 
