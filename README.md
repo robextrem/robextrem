@@ -4,7 +4,7 @@
 
 ##### NOW 
 
-- 👨‍💻 I'm currently working on [Luqero](https://luqero.com)
+- 👨‍💻 I'm currently working on [Luquero](https://luquero.mx)
 
 - 🧠 I'm currently learning [AdonisJS](https://adonijs.com)
 
